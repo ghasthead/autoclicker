@@ -30,3 +30,5 @@ Notes
 Run as Administrator if hotkeys don't work in certain games or elevated windows
 Macro files (macros.json) are saved in the same folder as the .exe
 Closing the window exits the app; the hotkey still works while the window is minimised
+
+this application is a 3 in 1: autoclicker, cps (clicks per second) tester, and macro
