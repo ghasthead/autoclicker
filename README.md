@@ -5,7 +5,9 @@ Windows Defender warning: Because this app is not commercially signed, Windows m
 Building from source
 
 Requirements: Python 3.8+ and pip
-
+-----------------------------------------------
+YOU MUST HAVE PYTHON INSTALLED FOR THIS TO WORK
+-----------------------------------------------
 Install dependencies:
 
 pip install keyboard mouse pyinstaller
