@@ -37,3 +37,6 @@ this application is a 3 in 1: autoclicker, cps (clicks per second) tester, and m
 
 
 update, 6/18, added more features
+
+youtube installation guide:
+https://youtu.be/NI4QSImrDrg
